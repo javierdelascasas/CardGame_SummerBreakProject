@@ -1,6 +1,6 @@
 package se.javierdlc.cardgame.decks;
 
-import se.javierdlc.cardobjects.Card;
+import se.javierdlc.cardframework.Card;
 
 public class FrenchCard extends Card {
     private int value;

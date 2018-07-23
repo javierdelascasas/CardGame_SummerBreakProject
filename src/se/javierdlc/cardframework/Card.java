@@ -1,4 +1,4 @@
-package se.javierdlc.cardobjects;
+package se.javierdlc.cardframework;
 
 public abstract class Card {
     private boolean visible;

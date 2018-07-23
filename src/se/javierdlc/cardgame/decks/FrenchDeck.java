@@ -1,7 +1,7 @@
 package se.javierdlc.cardgame.decks;
 
-import se.javierdlc.cardobjects.Card;
-import se.javierdlc.cardobjects.Deck;
+import se.javierdlc.cardframework.Card;
+import se.javierdlc.cardframework.Deck;
 
 import java.util.ArrayList;
 import java.util.List;

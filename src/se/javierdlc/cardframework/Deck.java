@@ -1,4 +1,4 @@
-package se.javierdlc.cardobjects;
+package se.javierdlc.cardframework;
 
 import java.util.ArrayList;
 import java.util.List;
