@@ -1,4 +1,4 @@
 package se.javierdlc.deck;
 
-public class card {
+public class Card {
 }
