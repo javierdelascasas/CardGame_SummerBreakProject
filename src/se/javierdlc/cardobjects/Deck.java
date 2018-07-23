@@ -1,4 +1,4 @@
-package se.javierdlc.deck;
+package se.javierdlc.cardobjects;
 
 import java.util.ArrayList;
 import java.util.List;
