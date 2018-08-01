@@ -27,4 +27,8 @@ public class FrenchCard extends Card {
     public void setCategory(FrenchCategories category) {
         this.category = category;
     }
+
+    public String toString(){
+        return value + " " + category;
+    }
 }

@@ -14,4 +14,5 @@ public abstract class Card {
     public void setVisible(boolean visible) {
         this.visible = visible;
     }
+
 }

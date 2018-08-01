@@ -1,6 +1,9 @@
 package se.javierdlc.cardgame.players;
 
-public class Player {
-    private boolean human;
-    private List<>
+import se.javierdlc.cardframework.CardHolder;
+
+public class Player extends CardHolder {
+    public Player(boolean human){
+        super(human);
+    }
 }
