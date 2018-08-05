@@ -53,6 +53,11 @@ public class Window {
         panel.add(middleContainer);
         panel.add(lowerContainer);
         frame.add(panel);
+        frame.setVisible(true);
+        panel.setVisible(true);
+        upperContainer.setVisible(true);
+        middleContainer.setVisible(true);
+        lowerContainer.setVisible(true);
         frame.pack();
     }
 
